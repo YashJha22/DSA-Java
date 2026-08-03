@@ -1,0 +1,11 @@
+# IntelliJ IDEA
+.idea/
+
+# Build output
+out/
+
+# macOS
+.DS_Store
+
+# IntelliJ module files
+*.iml
