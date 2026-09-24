@@ -8,4 +8,4 @@ out/
 .DS_Store
 
 # IntelliJ module files
-*.iml
+*.imlproduction/
