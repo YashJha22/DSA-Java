@@ -40,6 +40,7 @@ This repository documents my journey of mastering DSA through a structured, patt
 
 ```text
 src/
+├── Arrays/
 ├── TwoPointers/
 ├── FastAndSlowPointers/
 ├── SlidingWindow/
