@@ -59,6 +59,19 @@ src/
 
 ---
 
+## Solved Problems
+
+### Arrays
+
+| # | Problem | Solution |
+|---|---|---|
+| 1 | Concatenation of Array | `src/Arrays/ConcatenationOfArray.java` |
+| 2 | Running Sum of 1d Array | `src/Arrays/RunningSumOf1DArray.java` |
+| 3 | Fizz Buzz | `src/Arrays/FizzBuzz.java` |
+| 4 | Number of Steps to Reduce a Number to Zero | `src/Arrays/NumberOfStepsToReduceANumberToZero.java` |
+
+---
+
 ## Objectives
 
 - Build strong problem-solving skills.
