@@ -41,21 +41,9 @@ This repository documents my journey of mastering DSA through a structured, patt
 ```text
 src/
 ├── Arrays/
-├── TwoPointers/
-├── FastAndSlowPointers/
+├── Java_Concept/
 ├── SlidingWindow/
-├── KadanePattern/
-├── PrefixSum/
-├── MergeIntervals/
-├── InPlaceReversalOfLinkedList/
-├── Stack/
-├── HashMap/
-├── BinarySearch/
-├── HeapPatterns/
-├── RecursionAndBacktracking/
-├── Trees/
-├── Graphs/
-└── DynamicProgramming/
+└── TwoPointers/
 ```
 
 ---
