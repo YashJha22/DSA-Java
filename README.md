@@ -58,6 +58,7 @@ src/
 | 2 | Running Sum of 1d Array | `src/Arrays/RunningSumOf1DArray.java` |
 | 3 | Fizz Buzz | `src/Arrays/FizzBuzz.java` |
 | 4 | Number of Steps to Reduce a Number to Zero | `src/Arrays/NumberOfStepsToReduceANumberToZero.java` |
+| 5 | Richest Customer Wealth | `src/Arrays/RichestCustomerWealth.java` |
 
 ---
 
