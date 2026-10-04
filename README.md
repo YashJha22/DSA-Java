@@ -65,6 +65,7 @@ src/
 | # | Problem | Solution |
 |---|---|---|
 | 1 | Sum of First N Natural Numbers | `Basic/SumOfFirstNNaturalNumbers.java` |
+| 2 | Odd or Even | `Basic/maths/OddOrEven.java` |
 
 ---
 
