@@ -60,6 +60,12 @@ src/
 | 4 | Number of Steps to Reduce a Number to Zero | `src/Arrays/NumberOfStepsToReduceANumberToZero.java` |
 | 5 | Richest Customer Wealth | `src/Arrays/RichestCustomerWealth.java` |
 
+### Basic
+
+| # | Problem | Solution |
+|---|---|---|
+| 1 | Sum of First N Natural Numbers | `Basic/SumOfFirstNNaturalNumbers.java` |
+
 ---
 
 ## Objectives
