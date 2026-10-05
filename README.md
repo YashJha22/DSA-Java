@@ -60,6 +60,12 @@ src/
 | 4 | Number of Steps to Reduce a Number to Zero | `src/Arrays/NumberOfStepsToReduceANumberToZero.java` |
 | 5 | Richest Customer Wealth | `src/Arrays/RichestCustomerWealth.java` |
 
+### Two Pointers
+
+| # | Problem | Solution |
+|---|---|---|
+| 1 | Remove Element | `src/TwoPointers/RemoveElement.java` |
+
 ### Basic
 
 | # | Problem | Solution |
