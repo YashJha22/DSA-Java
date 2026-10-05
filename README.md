@@ -64,7 +64,12 @@ src/
 
 | # | Problem | Solution |
 |---|---|---|
-| 1 | Remove Element | `src/TwoPointers/RemoveElement.java` |
+| 1 | Valid Palindrome | `src/TwoPointers/125-valid-palindrome/valid-palindrome.java` |
+| 2 | Contains Duplicate | `src/TwoPointers/217-contains-duplicate/contains-duplicate.java` |
+| 3 | Remove Duplicates | `src/TwoPointers/RemoveDuplicates.java` |
+| 4 | Remove Duplicates from Sorted List | `src/TwoPointers/RemoveDuplicatesFromSortedList.java` |
+| 5 | Segregate 0s and 1s | `src/TwoPointers/Segregate0sAnd1s.java` |
+| 6 | Remove Element | `src/TwoPointers/RemoveElement.java` |
 
 ### Basic
 
